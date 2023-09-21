@@ -1,0 +1,2 @@
+# lengthOfLongestSubstring
+製作一個監測不重複字串，而且可以計算出不重複最長字串長度
